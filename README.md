@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am a research software engineer working on open-source repositories for biomedical science. You can find some of my projects below.
+
+I am an advocate for open science and interested in molecular causality. My background is in neuropharmacology, but I have since then branched into software engineering, machine learning and statistics, and Large Language Models. If you're interested in what I do, or want to contribute, don't hesitate to reach out to me. My contact information can also be found on my [web page](https://slobentanzer.github.io).
+
 <!--
 **slobentanzer/slobentanzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
